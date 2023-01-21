@@ -1,0 +1,26 @@
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.exe
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.deps.json
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.runtimeconfig.json
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.runtimeconfig.dev.json
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.dll
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.pdb
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.csprojAssemblyReference.cache
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.AssemblyInfoInputs.cache
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.AssemblyInfo.cs
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.dll
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.pdb
+C:\Users\Gian\Desktop\CIIT\Computer Programming\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.genruntimeconfig.cache
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.exe
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.deps.json
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.runtimeconfig.json
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.runtimeconfig.dev.json
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.dll
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\bin\Debug\netcoreapp3.1\Tell Me Without Telling Me.pdb
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.csprojAssemblyReference.cache
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.AssemblyInfoInputs.cache
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.AssemblyInfo.cs
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.dll
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.pdb
+C:\Users\Gian\Desktop\CIIT\Computer Programming\FINAL PROJECT\Tell Me Without Telling Me\Tell Me Without Telling Me\obj\Debug\netcoreapp3.1\Tell Me Without Telling Me.genruntimeconfig.cache
